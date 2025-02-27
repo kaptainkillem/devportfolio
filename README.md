@@ -6,7 +6,7 @@ Welcome to my developer portfolio! This website showcases my skills, projects, a
 
 ## 🚀 Live Demo
 
-You can view the live version of the portfolio here: 
+You can view the live version of the portfolio here: kaptainkillem.github.io/devportfolio
 
 ## 🛠️ Technologies Used
 
